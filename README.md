@@ -1,1 +1,1 @@
-# MALICIOUS-URL-DETECTION
+# SecureCodingProject
